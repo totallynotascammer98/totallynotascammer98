@@ -1,5 +1,5 @@
 <p align="center">
-<img width="950" height="80" src="content://media/external/downloads/1394"
+<img width="950" height="80" src="a"
 </p>
 
 
@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-$\text{\color{#4ed950} hiiii. }$
+$\text{\color{#fffff} hiiii. }$
 
 
